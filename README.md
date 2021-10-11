@@ -16,3 +16,5 @@ Intro to Machine Learning and NLP
 > Código fuente y extracción de datos para el modelo
 
 **Semilla**: Daniel Armas Ramírez
+
+**Mentor**: Bernick Lincoln Salvador Rosas
