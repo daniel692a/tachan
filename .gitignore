@@ -1,0 +1,5 @@
+env/*
+__pycache__/
+pip-log.txt
+.ipynb_checkpoints
+.ipynb_config.py
