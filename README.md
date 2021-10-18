@@ -18,3 +18,7 @@ Intro to Machine Learning and NLP
 **Semilla**: Daniel Armas Ramírez
 
 **Mentor**: Bernick Lincoln Salvador Rosas
+
+## Referencias
+https://machinelearningmastery.com/define-encoder-decoder-sequence-sequence-model-neural-machine-translation-keras/
+https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
